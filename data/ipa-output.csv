@@ -1,0 +1,24 @@
+﻿Type,Pathway,CynoEarly,CynoLate,CynoMiddle,AGMEarly,AGMLate,AGMMiddle
+Functional,Lymphocyte activation,2.395,1.234,2.965,1.687,1.123,2.46
+Functional,T cell activation,1.231,0.94,1.993,0.971,0.637,1.834
+Functional,Antiviral response,3.17,2.678,3.17,2.747,3.137,2.696
+Functional,Apoptosis of APCs,2.756,2.329,3.186,,2.13,3.075
+Functional,DC death,3.078,,2.012,1.924,,2.217
+Functional,Immune cell death,3.809,2.915,3.268,2.764,2.552,3.247
+Functional,NK cell movement,1.534,,,0.851,0.909,
+Functional,Neutrophil movement,2.711,2.957,2.907,1.026,2.151,1.949
+Functional,T cell infiltration,0.828,0.299,0.277,0.87,0.296,0.277
+Functional,Innate immune response,1.609,1.026,1.941,1.016,0.958,0.912
+Canonical,IFN a/b signaling,4.472,4.123,4.025,4,3.9,4.69
+Canonical,IFNg signaling,3.606,1.604,3.317,2.828,2.53,4
+Canonical,Interferon signaling,1.667,0.816,2.121,2,1.633,2.121
+Functional,Leukocyte migration,2.734,0.781,2.28,,1.263,2.152
+Canonical,Macrophage alt. activation,1.414,0.302,1.633,0,2.333,2.111
+Canonical,Macrophage classical activation,2.138,0,2.714,1.342,1.508,1.941
+Functional,Necrosis,3.13,2.824,2.8,3.492,2.401,3.26
+Canonical,Neutrophil degranulation,3,2.84,2.673,,3.13,4.123
+Canonical,NF-kB signaling,2.828,0.447,2.449,1.342,0.632,1.508
+Canonical,Pathogen-induced cytokine storm,3.5,1.069,3,1.667,1.5,3.9
+Functional,Phagocytosis,2.942,2.955,3.286,1.45,3.521,3.073
+Functional,B cell quantity,2.202,0.226,0.244,0.869,0.624,1.189
+Canonical,T cell exhaustion,2.236,,2.236,,3,2.236

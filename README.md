@@ -1,7 +1,6 @@
 
 # LASV AGM mucosal model: Nanostring analyses
-
-> Paper citation TBD
+[![DOI](https://zenodo.org/badge/968323978.svg)](https://doi.org/10.5281/zenodo.15757274)
 
 ## Methods
 

@@ -1,0 +1,5 @@
+"Predictor","Accuracy","Threshold","Specificity","Sensitivity","AUC","Significance"
+"Dose",0.76,2.59,0.75,0.91,0.86,"6.2e-05"
+"GEq",0.87,5.07,0.95,0.94,0.98,"0.0030"
+"IgG",0.43,4.5,0.7,0.5,0.57,"0.2568"
+"PFU",0.87,5.16,1,0.94,0.98,"0.0085"

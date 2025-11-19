@@ -1,4 +1,4 @@
-# Nanostring analyses for _Lassa fever in African green monkeys: Clinical disease and fatal outcome are associated with systemic viral dissemination and inflammation_
+# Bioinformatic analyses for _Lassa fever in African green monkeys: Clinical disease and fatal outcome are associated with systemic viral dissemination and inflammation_
 [![DOI](https://zenodo.org/badge/935629863.svg)](https://doi.org/10.5281/zenodo.15757310)
 
 > [PMID 40763738](https://pubmed.ncbi.nlm.nih.gov/40763738/)

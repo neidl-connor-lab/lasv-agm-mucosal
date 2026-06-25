@@ -1,7 +1,7 @@
-# Bioinformatic analyses for _Lassa fever in African green monkeys: Clinical disease and fatal outcome are associated with systemic viral dissemination and inflammation_
+# *Lassa fever in African green monkeys: Clinical disease and fatal outcome are associated with systemic viral dissemination and inflammation*
 [![DOI](https://zenodo.org/badge/935629863.svg)](https://doi.org/10.5281/zenodo.15757310)
 
-> [PMID 40763738](https://pubmed.ncbi.nlm.nih.gov/40763738/)
+> Cross, R.W., Prasad, A.N., Turcinovic, J., Borisevich, V., Agans, K.N., Woolsey, C., Deer, D.J., Harrison, M.B., O’Toole, R., Villasante-Tezanos, A., Velasquez-Reyes, J., Dobias, N.S., Connor, J.H., Fenton, K.A., Geisbert, T.W. (2025) *Lassa fever in African green monkeys: Clinical disease and fatal outcome are associated with systemic viral dissemination and inflammation*. Cell Reports Medicine, 102263. [10.1016/j.xcrm.2025.102263](https://doi.org/10.1016/j.xcrm.2025.102263). PMID [40763738](https://pubmed.ncbi.nlm.nih.gov/40763738/). 
 
 ## Methods
 
@@ -13,5 +13,4 @@ Naïve clustering with principal component analysis (PCA) was used to bin time p
 
 The raw RCC files are available here: [`data/raw-rcc.tar.bz2`](data/raw-rcc.tar.bz2). All other inputs and output tables are in the [`data`](data/) folder. The unformatted output figures are in [`analysis`](analysis/). The code is in [`limma.r`](limma.r). 
 
- 
 ![Transcriptomics figure](figure.png)
